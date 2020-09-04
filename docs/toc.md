@@ -1,8 +1,8 @@
 ---
-id: tableOfContents
+id: toc
 title: Table of Contents
 sidebar_label: Explore
-slug: /explore
+slug: /
 ---
 
 - [General](general)

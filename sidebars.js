@@ -8,10 +8,22 @@
  */
 
 module.exports = {
-  someSidebar: {
-    "Table of Contents": ['TableOfContents/tableOfContents'],
-    General: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-    Maintenance: ['maintenance/maintenance']
-  },
+  docs: [
+    {
+      type: 'doc',
+      id: 'toc'
+    },
+    {
+      type: 'category',
+      label: 'Getting Started',
+      items: ['general/general'],
+      collapsed: false,
+    },
+    // {
+    //   type: 'category',
+    //   label: 'Docusaurus',
+    //   items: ['doc1'],
+    //   collapsed: true,
+    // },
+  ],
 };
