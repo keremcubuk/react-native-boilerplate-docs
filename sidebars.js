@@ -16,14 +16,34 @@ module.exports = {
     {
       type: 'category',
       label: 'Getting Started',
-      items: ['general/general'],
+      items: [
+        'general/general',
+        'general/cli-commands',
+        'general/editor',
+        'general/files',
+        'general/faq',
+        'general/gotchas',
+      ],
       collapsed: false,
     },
-    // {
-    //   type: 'category',
-    //   label: 'Docusaurus',
-    //   items: ['doc1'],
-    //   collapsed: true,
-    // },
+    {
+      type: 'category',
+      label: 'JavaScript',
+      items: [
+        'js/javascript',
+      ],
+      collapsed: true,
+    },
+    {
+      type: 'category',
+      label: 'Testing',
+      items: [
+        'testing/testing',
+        'testing/unit_testing',
+        'testing/component_testing',
+        'testing/remote_testing'
+      ],
+      collapsed: true,
+    },
   ],
 };

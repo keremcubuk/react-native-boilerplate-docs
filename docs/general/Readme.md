@@ -13,13 +13,11 @@ Using React Boilerplate, you get to start your app with our community's current
 ideas on what represents optimal developer experience, best practice, most
 efficient tooling and cleanest project structure.
 
-- [**CLI Commands**](commands.md)
-- [Setting up your editor](editor.md)
-- [Tool Configuration](files.md)
-- [Server Configurations](server-configs.md)
-- [Deployment](deployment.md) _(currently Heroku & AWS specific)_
-- [FAQ](faq.md)
-- [Gotchas](gotchas.md)
+- [**CLI Commands**](/docs/general/cli-commands)
+- [Setting up your editor](/docs/general/editor)
+- [Tool Configuration](/docs/general/files)
+- [FAQ](/docs/general/faq)
+- [Gotchas](/docs/general/gotchas)
 
 # Feature overview
 
