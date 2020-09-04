@@ -9,7 +9,9 @@
 
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
+    "Table of Contents": ['TableOfContents/tableOfContents'],
+    General: ['doc1', 'doc2', 'doc3'],
     Features: ['mdx'],
+    Maintenance: ['maintenance/maintenance']
   },
 };
