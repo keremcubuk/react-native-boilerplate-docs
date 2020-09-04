@@ -1,6 +1,7 @@
 ---
 id: testing
 title: Testing
+sidebar_label: Summary
 slug: /testing
 ---
 

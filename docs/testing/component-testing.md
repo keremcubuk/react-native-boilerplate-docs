@@ -44,6 +44,8 @@ function Button(props) {
 export default Button;
 ```
 
+_Note: This is a [state**less** ("dumb") component](/docs/javascript/#architecture-components-and-containers)_
+
 
 It might be used in another component like this:
 
@@ -56,6 +58,8 @@ function HomePage() {
   return <Button onClick={this.doSomething}>Click me!</Button>;
 }
 ```
+
+_Note: This is a [state**ful** ("smart") component](/docs/javascript/#architecture-components-and-containers)!_
 
 When rendered normally with the standard `ReactDOM.render` function, this will
 be the HTML output

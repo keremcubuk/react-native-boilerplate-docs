@@ -21,8 +21,10 @@ module.exports = {
         'general/cli-commands',
         'general/editor',
         'general/files',
+        'general/debugging',
         'general/faq',
         'general/gotchas',
+        'general/ext-components',
       ],
       collapsed: false,
     },
@@ -30,7 +32,15 @@ module.exports = {
       type: 'category',
       label: 'JavaScript',
       items: [
-        'js/javascript',
+        'javascript/javascript',
+        'javascript/redux',
+        'javascript/immer',
+        'javascript/redux_saga',
+        'javascript/reselect',
+        'javascript/routing',
+        'javascript/i18n',
+        'javascript/async_components',
+        'javascript/remove',
       ],
       collapsed: true,
     },
@@ -44,6 +54,10 @@ module.exports = {
         'testing/remote_testing'
       ],
       collapsed: true,
+    },
+    {
+      type: 'doc',
+      id: 'maintenance'
     },
   ],
 };

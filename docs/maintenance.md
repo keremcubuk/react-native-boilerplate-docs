@@ -1,7 +1,7 @@
 ---
 id: maintenance
-title: Maintenance
-sidebar_label: Update Project Dependencies
+title: Update Project Dependencies
+sidebar_label: Maintenance
 slug: /maintenance
 ---
 
