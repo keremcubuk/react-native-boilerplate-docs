@@ -5,9 +5,10 @@ sidebar_label: Explore
 slug: /
 ---
 
-- [General](general)
+- [Introduction ](/docs/introduction)
+- [General](/docs/general)
+  - [Introduction ](/docs/general)
   - [**CLI Commands**](/docs/general/cli-commands)
-  - [Introduction ](/docs/general/introduction)
   - [Tool Configuration](/docs/general/files)
   - [Debugging](general/debugging.md)
   - [FAQ](/docs/general/faq)
@@ -17,7 +18,7 @@ slug: /
   - [Unit Testing](/docs/testing/unit-testing)
   - [Component Testing](/docs/testing/component-testing)
   - [Remote Testing](/docs/testing/remote-testing)
-- [JS](js)
+- [JS](javascript)
   - [Redux][redux]
   - [Immer][Immer]
   - [reselect][reselect]
@@ -70,7 +71,7 @@ Run `npm start` to see your app at `localhost:8081`
 
 ### Structure
 
-The [`app/`](../../../tree/master/app) directory contains your entire application code, including JavaScript and tests.
+The [`app/`](https://github.com/keremcubuk/react-native-boilerplate/blob/master/app/app.js) directory contains your entire application code, including JavaScript and tests.
 
 The rest of the folders and files only exist to make your life easier, and
 should not need to be touched.

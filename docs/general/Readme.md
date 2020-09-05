@@ -68,11 +68,11 @@ that's as easy as pie and the url is auto-synced to your application state!
 
 Focus on writing new features without worrying about formatting or code quality. With the right editor setup, your code will automatically be formatted and linted as you work.
 
-Read more about linting in our [introduction](./introduction.md) and don't forget to setup your by following [our instructions](./editor.md).
+Read more about linting in our [introduction](/docs/introduction) and don't forget to setup your by following [our instructions](/docs/general/editor).
 
 # Optional extras
 
-_Don't like any of these features? [Click here](remove.md)_
+_Don't like any of these features? [Click here](/docs/general/remove-plugin)_
 
 ## Offline-first
 

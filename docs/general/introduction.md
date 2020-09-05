@@ -1,4 +1,10 @@
-# The Hitchhiker's Guide to `react-native-boilerplate`
+---
+id: introduction
+title: Introduction
+slug: /introduction
+---
+
+## The Hitchhiker's Guide to `react-native-boilerplate`
 
 The [`README.md`](https://github.com/keremcubuk/react-native-boilerplate#features) gives you adequate information on how to clone boilerplate files, install dependencies and launch the example app.
 
@@ -67,10 +73,6 @@ You can call this area the "engine" of your app. Your source code cannot be exec
 - `internals/mocks`: This folder contains mocks which Jest uses when testing your app, e.g. for images.
 
 The other folders are mostly for the maintainers and/or the setup, and you should absolutely never need to touch them so we are going skip them for the sake of brevity.
-
-### `server/`
-
-As the name suggests, this folder contains development and production server configuration.
 
 ## Basic Building Blocks
 

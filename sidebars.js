@@ -14,6 +14,10 @@ module.exports = {
       id: 'toc'
     },
     {
+      type: 'doc',
+      id: 'general/introduction'
+    },
+    {
       type: 'category',
       label: 'Getting Started',
       items: [
@@ -25,6 +29,7 @@ module.exports = {
         'general/faq',
         'general/gotchas',
         'general/ext-components',
+        'general/remove-plugin',
       ],
       collapsed: false,
     },
